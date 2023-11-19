@@ -52,6 +52,7 @@ export default function Navbar() {
                   cursor={'pointer'}
                   minW={0}>
                   <Avatar
+            
                     size={'sm'}
                     src={'https://avatars.dicebear.com/api/male/username.svg'}
                   />
@@ -61,18 +62,18 @@ export default function Navbar() {
                   <Center>
                     <Avatar
                       size={'2xl'}
+                      
                       src={'https://avatars.dicebear.com/api/male/username.svg'}
                     />
                   </Center>
                   <br />
                   <Center>
-                    <p>Username</p>
+                    <p>User</p>
                   </Center>
                   <br />
                   <MenuDivider />
-                  <MenuItem>Your Servers</MenuItem>
-                  <MenuItem>Account Settings</MenuItem>
-                  <MenuItem onClick={()=>{
+                  
+                  <MenuItem bg={"lightgreen"} onClick={()=>{
                     dispatch({type:LOGOUT})
                   }}>Logout</MenuItem>
                 </MenuList>
