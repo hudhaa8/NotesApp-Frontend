@@ -68,7 +68,7 @@ export default function Navbar() {
                   </Center>
                   <br />
                   <Center>
-                    <p>User</p>
+                    <p></p>
                   </Center>
                   <br />
                   <MenuDivider />

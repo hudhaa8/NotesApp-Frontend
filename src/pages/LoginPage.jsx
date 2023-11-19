@@ -78,8 +78,8 @@ const LoginPage = () => {
                 align={"start"}
                 justify={"space-between"}
               >
-                <Checkbox>Remember me</Checkbox>
-                <Text color={"blue.400"}>Forgot password?</Text>
+                {/* <Checkbox>Remember me</Checkbox>
+                <Text color={"blue.400"}>Forgot password?</Text> */}
               </Stack>
               <Button
                 onClick={handleLogin}

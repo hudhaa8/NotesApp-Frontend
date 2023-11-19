@@ -7,6 +7,7 @@ import PrivateRoute from "./PrivateRoute";
 
 
 
+
 export default function AllRoutes(){
     return(
         <Routes>
