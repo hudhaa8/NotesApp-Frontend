@@ -13,6 +13,9 @@ noorulhudha.a@gmail.com
 noorul@gmail.com
 123456RRR
 
+
+You can also create by sign up and Enjoy the NOTES APP
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
