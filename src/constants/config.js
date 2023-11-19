@@ -1,0 +1,1 @@
+export const BASE_URL = "https://notesapp-backend-kbcl.onrender.com"
